@@ -1,0 +1,13 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Personal test media: never commit
+recordings/
+*.mp4
+*.avi
+*.mov
+
+# Editor
+.vscode/
